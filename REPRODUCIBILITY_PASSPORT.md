@@ -1,8 +1,8 @@
 # Reproducibility Passport
 
-Package version: `AUTHOR_INPUT_NEEDED`  
-Release date: `AUTHOR_INPUT_NEEDED`  
-Source commit/tag: `AUTHOR_INPUT_NEEDED`
+Package version: `v1.0.0`  
+Release date: `2026-10-01`  
+Source commit/tag: `v1.0.0`
 
 ## Targeted evidence status
 
