@@ -1,8 +1,8 @@
 # Reproducibility Passport
 
-Package version: `v1.0.0`  
+Package version: `v1.0.1`  
 Release date: `2026-10-01`  
-Source commit/tag: `v1.0.0`
+Source commit/tag: `v1.0.1`
 
 ## Targeted evidence status
 
